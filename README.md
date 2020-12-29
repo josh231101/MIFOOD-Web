@@ -4,7 +4,7 @@ Complete web page using HTML,CSS, animations, BEM convention
 
 ## Watch the complete website online click on the image to see it LIVE!
 
-[<img src="https://i.ibb.co/C7RnbkJ/MIFOODCAPTURE.png" alt="MI FOOD COMPLETE WEBSITE">]()
+[<img src="https://i.ibb.co/C7RnbkJ/MIFOODCAPTURE.png" alt="MI FOOD COMPLETE WEBSITE">](https://josh231101.github.io/MIFOOD-Web/)
 
 ## :computer: Stack
 
